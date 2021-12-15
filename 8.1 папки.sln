@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1 папки", "8.1 папки\8.1 папки.csproj", "{A149BECA-6EE9-484D-AAD3-4824C6C4F895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2 файл с числами", "8.2 файл с числами\8.2 файл с числами\8.2 файл с числами.csproj", "{34F1B6A5-77AC-4FAE-9C27-51FA02975F1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A149BECA-6EE9-484D-AAD3-4824C6C4F895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A149BECA-6EE9-484D-AAD3-4824C6C4F895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A149BECA-6EE9-484D-AAD3-4824C6C4F895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A149BECA-6EE9-484D-AAD3-4824C6C4F895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F1B6A5-77AC-4FAE-9C27-51FA02975F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F1B6A5-77AC-4FAE-9C27-51FA02975F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F1B6A5-77AC-4FAE-9C27-51FA02975F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F1B6A5-77AC-4FAE-9C27-51FA02975F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {471EE73E-B5FB-4C42-AEDE-146E1BFFF1DF}
+	EndGlobalSection
+EndGlobal
